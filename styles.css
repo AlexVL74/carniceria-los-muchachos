@@ -534,6 +534,10 @@ body {
     border-right: none;
     border-bottom: 1px solid #333333;
   }
+
+.nosotros-texto p {
+  text-align: left;
+}  
 }
 
 #nosotros {
